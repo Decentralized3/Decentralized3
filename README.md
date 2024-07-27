@@ -39,7 +39,3 @@ I actively participate in bug bounty programs, where I apply my skills to identi
 **Contact**
 Feel free to reach out to me if you have any questions or if you're interested in my work. Let's connect and collaborate!
 
-
-
-
--->
