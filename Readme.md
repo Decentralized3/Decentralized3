@@ -3,6 +3,10 @@
 #### I'm a passionate cybersecurity professional with a strong focus on offensive security and penetration testing. I have a diverse educational background and have honed my skills through practical experience and continuous learning.
 ![I'm a passionate cybersecurity professional with a strong focus on offensive security and penetration testing. I have a diverse educational background and have honed my skills through practical experience and continuous learning.](https://media.licdn.com/dms/image/D4E16AQH1U4cC-tCkBw/profile-displaybackgroundimage-shrink_350_1400/0/1702915229082?e=1727308800&v=beta&t=0m2eDP5Y1DZMBKmvkDV_Xuw1ZIbDJpjvAvSCxzuEz6U)
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Decentralized3)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/muhammad-kashif-9a5a6123b//)  
+
+
+
 
 **Skills & Certifications:**
 👉 Certified Ethical Hacker (CEH) 
