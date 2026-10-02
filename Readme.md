@@ -1,42 +1,31 @@
 # Hi there 👋, Muhammad Kashif
-### Bug Bounty Hunter || Programmer || CEH
-#### I'm a passionate cybersecurity professional with a strong focus on offensive security and penetration testing. I have a diverse educational background and have honed my skills through practical experience and continuous learning.
+### # About
+
+I’m an IT & Cybersecurity professional focused on **offensive security, application security, and Android/mobile security**.
+
+My security journey developed through hands-on experimentation — working with vulnerable applications, security labs, penetration-testing exercises, bug-bounty testing, reverse engineering, and small security tools and environments.
+
+Over time, my focus moved beyond simply learning tools and techniques. I became more interested in understanding **why a weakness exists, how it can be reproduced, how to validate it reliably, and what evidence supports the result**.
+
+My work currently spans:
+
+* Application Security
+* Android & Mobile Security
+* Offensive Security
+* Security Research
+* Vulnerability Research
+* Security Tooling & Automation
+* Digital Forensics
+* Linux & Networking
+
+This GitHub contains selected **projects, laboratories, experiments, research, and technical notes** that represent work I have actually explored.
+
+Not everything I work on is public. Some projects remain private because they are unfinished, target-specific, experimental, or contain implementation details that are not appropriate to release. Where the underlying source cannot be published, I aim to document the **problem, methodology, observations, results, and lessons learned** where possible.
+
+I’m continuing to build toward deeper security research, stronger testing environments, better tooling, and more disciplined security engineering.
+
+**Current focus:** Application Security · Android Security · Offensive Security · Security Research · Security Engineering
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Decentralized3)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/muhammad-kashif-9a5a6123b//)  
-
-
-
-
-**Skills & Certifications:**
-👉 Certified Ethical Hacker (CEH) 
-👉 Python Programming 
-👉 Networking 
-👉 C++ Programming 
-👉 OSINT 
-👉 CompTIA A+ (Core 1 & Core 2) 
-👉 CompTIA Security+ 
-👉 Penetration Testing
-
-**Professional Focus**
-I specialize in offensive security, penetration testing, and ethical hacking. My areas of expertise include:
-
-👉 Offensive Security Techniques
-👉 Penetration Testing Methodologies
-👉 Ethical Hacking
-👉 Linux and Networking
-👉 Web Application Pentesting
-👉 Buffer Overflow Exploits
-👉 Public Exploits and Shell Scripting
-👉 Python for Security
-👉 Privilege Escalation
-👉 Password Cracking and Brute Force Attacks
-👉 Open Source Intelligence (OSINT)
-
-**Bug Bounty Hunting**
-I actively participate in bug bounty programs, where I apply my skills to identify and report security vulnerabilities in various systems and applications.
-
-
-
-**Contact**
-Feel free to reach out to me if you have any questions or if you're interested in my work. Let's connect and collaborate!
 
