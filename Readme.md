@@ -1,7 +1,5 @@
 # Hi there 👋, Muhammad Kashif
-### # About
-
-I’m an IT & Cybersecurity professional focused on **offensive security, application security, and Android/mobile security**.
+### I’m an IT & Cybersecurity professional focused on **offensive security, application security, and Android/mobile security**.
 
 My security journey developed through hands-on experimentation — working with vulnerable applications, security labs, penetration-testing exercises, bug-bounty testing, reverse engineering, and small security tools and environments.
 
